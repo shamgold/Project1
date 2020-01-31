@@ -26,39 +26,51 @@ Oregon Shelf Surface Piercing Profiler Mooring: Summer
 ![alt text](https://github.com/shamgold/Project1/blob/master/(S)OregonShelfSurfacePiercingProfilerMooring.png "P2")
 
 Oregon Offshore Cabled Shallow Profiler Mooring: Winter
+
 ![alt text](https://github.com/shamgold/Project1/blob/master/(W)OregonOffshoreCabledShallowProfilerMooring.png "P3")
 
 Oregon Offshore Cabled Shallow Profiler Mooring: Summer
+
 ![alt text](https://github.com/shamgold/Project1/blob/master/(S)OregonOffshoreCabledShallowProfilerMooring.png "P4")
 
 Oregon Offshore Cabled Deep Profiler Mooring: Winter
+
 ![alt text](https://github.com/shamgold/Project1/blob/master/(W)OregonOffshoreCabledDeepProfilerMooring.png "P5")
 
 Oregon Offshore Cabled Deep Profiler Mooring: Summer
+
 ![alt text](https://github.com/shamgold/Project1/blob/master/(S)OregonOffshoreCabledDeepProfilerMooring.png "P6")
 
 Oregon Slope Base Shallow Profiler: Winter
+
 ![alt text](https://github.com/shamgold/Project1/blob/master/(W)OregonSlopeBaseShallowProfiler.png "P7")
 
 Oregon Slope Base Shallow Profiler: Summer
+
 ![alt text](https://github.com/shamgold/Project1/blob/master/(S)OregonSlopeBaseShallowProfiler.png "P8")
 
 Oregon Slope Base Deep Profiler: Winter
+
 ![alt text](https://github.com/shamgold/Project1/blob/master/(W)OregonSlopeBaseDeepProfiler.png "P9")
 
 Oregon Slope Base Deep Profiler: Summer
+
 ![alt text](https://github.com/shamgold/Project1/blob/master/(S)OregonSlopeBaseDeepProfiler.png "P10")
 
 Axial Base Shallow Profiler: Winter
+
 ![alt text](https://github.com/shamgold/Project1/blob/master/(W)AxialBaseShallowProfiler.png "P11")
 
 Axial Base Shallow Profiler: Summer
+
 ![alt text](https://github.com/shamgold/Project1/blob/master/(S)AxialBaseShallowProfiler.png "P12")
 
 Axial Base Deep Profiler: Winter
+
 ![alt text](https://github.com/shamgold/Project1/blob/master/(W)AxialBaseDeepProfiler.png "P13")
 
 Axial Base Deep Profiler: Summer
+
 ![alt text](https://github.com/shamgold/Project1/blob/master/(S)AxialBaseDeepProfiler.png "P14")
 
 Questions:
