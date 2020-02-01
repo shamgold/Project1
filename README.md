@@ -83,12 +83,15 @@ In most cases, the number of dives per day for the shallow profilers is much low
 
 2.	Where is the maximum value of ssp in each season? Explain why the max ssp should be there?
 
-
+In both seasons, the ssp appears to be the highest towards the surface. This makes sense because ssp is mainly dependant on temperature (high temperature gives higher ssp). In Oregon, in summer and even in winter, it makes sense that the water temperature to be higher at the surface.
 
 3.	Compare the ssp profile in day and night of all profilers, explain what you find (effect of day vs night). 
 
+By looking at my plots of depth vs time that have the times of sunset and sunrise plotted on them as well, I can see which dives occur at day and at night. From this I can look at the plot of the speed of sound profiles for each dive and see if the dives during day or night have a higher ssp. Based on this, the speed of sound profile generally appears to be higher at night. 
 
 4.	Compare the ssp profile in summer and winter of all profilers, explain what you find(effect of season). 
+
+
 
 
 5.	Compare the average ssp profiles of all profilers recorded at the same day in winter and summer (effect of location). 
