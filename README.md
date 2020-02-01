@@ -9,7 +9,8 @@ B ME 450
 Project 1: CTD
 
 
-GitHub: shamgold/Project1
+GitHub: shamgold/Project1, https://github.com/shamgold/Project1/blob/master/Project%201.ipynb 
+
 
 Task:
 
@@ -83,15 +84,16 @@ In most cases, the number of dives per day for the shallow profilers is much low
 
 2.	Where is the maximum value of ssp in each season? Explain why the max ssp should be there?
 
-In both seasons, the ssp appears to be the highest towards the surface. This makes sense because ssp is mainly dependant on temperature (high temperature gives higher ssp). In Oregon, in summer and even in winter, it makes sense that the water temperature to be higher at the surface.
+In summer, the ssp appears to be the highest towards the surface. This makes sense because ssp is mainly dependant on temperature (high temperature gives higher ssp). In Oregon, in summer, it makes sense for the water temperature to be higher at the surface. In winter, the max ssp is reached at a low depth (about 75 m). This could likely be due to cold surface temperatures.
 
 3.	Compare the ssp profile in day and night of all profilers, explain what you find (effect of day vs night). 
 
 By looking at my plots of depth vs time that have the times of sunset and sunrise plotted on them as well, I can see which dives occur at day and at night. From this I can look at the plot of the speed of sound profiles for each dive and see if the dives during day or night have a higher ssp. Based on this, the speed of sound profile generally appears to be higher at night. 
 
-4.	Compare the ssp profile in summer and winter of all profilers, explain what you find(effect of season). 
+4.	Compare the ssp profile in summer and winter of all profilers, explain what you find (effect of season). 
 
-
-
+Generally, in both seasons, the ssp declines with increasing depth. In some cases for both seasons, when a certain depth is reached, the ssp begins to increase. In winter, the ssp declines slowely at first, and then exponentially quicker. In summer, the ssp declines quickly at first, and then exponentially slower. This shows a change in temperature and/or salinity at different depths between the seasons. 
 
 5.	Compare the average ssp profiles of all profilers recorded at the same day in winter and summer (effect of location). 
+
+The Oregon Offshore Cabled Shallow Profiler Mooring and the Oregon Slope Base Shallow Profiler were both taken on June 10/11, 2019. The average ssp plots seem to be following the same pattern, but with the slope base profiler having a higher ssp overall. The Oregon Offshore Cabled Shallow Profiler Mooring and the Oregon Slope Base Shallow Profiler were both taken on January 20/21, 2020. They both have similar ssp values and reach their max ssp values at about 75 m. However, the slope base shallow profiler has a quicker decline in ssp once the max ssp is reached. 
